@@ -17,6 +17,7 @@ This project includes mini games and this branch is for .NET console application
 ***
 A list of technologies used within the project:
 * [C#](https://example.com): Version 9.0
+* [.NET](https://example.com): Version Core 3.1
 
 
 ## Installation
@@ -36,7 +37,7 @@ $ git clone https://github.com/KomalNavaleBITS/osse-group-8-assignment.git
 ***
 1) Clone the repository https://github.com/KomalNavaleBITS/osse-group-8-assignment.git
 2) Build the code in Microsoft Visual Studio
-3) Execute the code in browser.
+3) Execute the code.
 4) Play the game.
 
 ## FAQs
