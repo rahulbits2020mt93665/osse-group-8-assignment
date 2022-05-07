@@ -48,3 +48,10 @@ How to Play this game:
 3) The goal is to make any perfect 3 "x" for player 1 and perfect 3 "0" for player 2.
 4) 3 "x" and "0" can be vertical, horizontal and diagonal
 5) If Player 1 makes 3 "x" then Player 1 will win and if Player 2 makes 3 "0" then Player 2 will win
+
+Outputs:
+![output 1](https://user-images.githubusercontent.com/92818492/167244138-3d500921-77dd-4ad3-9c94-3028af298a9c.JPG)
+![output 2](https://user-images.githubusercontent.com/92818492/167244155-f6de36aa-c2f6-4de6-9ce9-2065a7bf38cd.JPG)
+![output 3](https://user-images.githubusercontent.com/92818492/167244160-7f7b3807-eb30-435a-b6e2-0a22a1ab42ce.JPG)
+![output 4](https://user-images.githubusercontent.com/92818492/167244174-ddf10cc9-f616-4976-81fe-5e518f9e7cd4.JPG)
+
