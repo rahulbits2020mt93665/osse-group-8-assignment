@@ -11,7 +11,7 @@ Mini Games
 
 ## General Info
 ***
-This project is a .NET console application to build the code for Tic Tac Toe game written in C#. The steps for how to play this game and outputs are displayed in FAQ section.
+This project includes mini games and this branch is for .NET console application to build the code for Tic Tac Toe game written in C#. The steps for how to play this game and outputs are displayed in FAQ section.
 
 ## Technologies
 ***
