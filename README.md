@@ -1,6 +1,6 @@
 # Project name
 ***
-Short description of the project.
+Mini Games
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -11,7 +11,7 @@ Short description of the project.
 
 ## General Info
 ***
-This project is a .NET MVC Application to register for an event.
+This project is a .NET console application to build the code for Tic Tac Toe game written in C#. The steps for how to play this game and outputs are displayed in FAQ section.
 
 ## Technologies
 ***
