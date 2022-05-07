@@ -11,45 +11,40 @@ Short description of the project.
 
 ## General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it.
+This project is a .NET MVC Application to register for an event.
 
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [C#](https://example.com): Version 9.0
+
 
 ## Installation
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
+1) Microsoft Visual Studio 2019 Community Edition
+Install Microsoft Visual Studio from https://visualstudio.microsoft.com/downloads/
+
+2) Setup GitHub repository
 $ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ git clone https://github.com/KomalNavaleBITS/osse-group-8-assignment.git
+
 ```
 
 ## Collaboration
 ***
-Provide instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
+1) Clone the repository https://github.com/KomalNavaleBITS/osse-group-8-assignment.git
+2) Build the code in Microsoft Visual Studio
+3) Execute the code in browser.
+4) Play the game.
 
 ## FAQs
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+A frequently asked question
+How to Play this game:
+1) Enter the desired number as per the turn of respective players
+2) If player 1 selected any number then that number will be replaced by "x" and if player 2 selected any number that number will be replaced by "0".
+3) The goal is to make any perfect 3 "x" for player 1 and perfect 3 "0" for player 2.
+4) 3 "x" and "0" can be vertical, horizontal and diagonal
+5) If Player 1 makes 3 "x" then Player 1 will win and if Player 2 makes 3 "0" then Player 2 will win
