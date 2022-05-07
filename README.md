@@ -1,6 +1,28 @@
-# Project name
+Mini Games
 ***
-Short description of the project.
+This project contains a colection of mini games one can play in their free time.
+
+Below are the mini games and their details:
+
+1) Red Light Green Light Game
+This is one of the games that you might have seen in Squid Game movie. 
+Now you can enjoy playing it as well.
+
+Technology used:
+This game is written in Java language. Multi-threading is used to for different players. 
+1 thread is for the doll other is for the player (You).
+
+How to play:
+- You need to press enter when the light is green.
+- You need to halt when the light is red as that is when the Doll is scanning for any movements.
+- The game is over when you press enter when light is red.
+- You will get to know your score at the end.
+- You can keep playing the game again and again by pressing Y. 
+- If anything other that Y is pressed the game is terminated.
+
+
+
+
 
 ## Table of Contents
 1. [General Info](#general-info)
