@@ -9,7 +9,7 @@ This is one of the games that you might have seen in Squid Game movie.
 Now you can enjoy playing it as well.
 
 Technology used:
-This game is written in Java language. Multi-threading is used to for different players. 
+This game is written in Java, c# and .NET languages. Multi-threading is used to for different players. 
 1 thread is for the doll other is for the player (You).
 
 How to play:
@@ -21,44 +21,51 @@ How to play:
 - If anything other that Y is pressed the game is terminated.
 
 
-
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
+6. [Outputs](#outputs)
 
 ## General Info
 ***
-This project includes mini games and this branch is for .NET console application to build the code for Tic Tac Toe game written in C#. The steps for how to play this game and outputs are displayed in FAQ section.
+In this project we have created a Gaming Application which will provide the user to play a host of different games like 
+>Red Light Green Light
+>Tic Tac Toe
+>Cards
 
 ## Technologies
 ***
 A list of technologies used within the project:
 * [C#](https://example.com): Version 9.0
 * [.NET](https://example.com): Version Core 3.1
-
+* [Java]
+* [.net]
 
 ## Installation
 ***
-A little intro about the installation. 
 ```
 1) Microsoft Visual Studio 2019 Community Edition
 Install Microsoft Visual Studio from https://visualstudio.microsoft.com/downloads/
 
 2) Setup GitHub repository
 $ cd ../path/to/the/file
-$ git clone https://github.com/KomalNavaleBITS/osse-group-8-assignment.git
+$ git clone https://github.com/nits005/osse-group-8-assignment.git
+
+3) Run TictacToe - 
+$ java tictactoe
 
 ```
 
 ## Collaboration
 ***
-1) Clone the repository https://github.com/KomalNavaleBITS/osse-group-8-assignment.git
-2) Build the code in Microsoft Visual Studio
-3) Execute the code.
-4) Play the game.
+> Fork the project from https://github.com/nits005/osse-group-8-assignment
+> Clone the project
+> Create a branch
+> Push code and raise a pull request
+
 
 ## FAQs
 ***
@@ -70,9 +77,8 @@ How to Play this game:
 4) 3 "x" and "0" can be vertical, horizontal and diagonal
 5) If Player 1 makes 3 "x" then Player 1 will win and if Player 2 makes 3 "0" then Player 2 will win
 
-Outputs:
+## Outputs:
 ![output 1](https://user-images.githubusercontent.com/92818492/167244138-3d500921-77dd-4ad3-9c94-3028af298a9c.JPG)
 ![output 2](https://user-images.githubusercontent.com/92818492/167244155-f6de36aa-c2f6-4de6-9ce9-2065a7bf38cd.JPG)
 ![output 3](https://user-images.githubusercontent.com/92818492/167244160-7f7b3807-eb30-435a-b6e2-0a22a1ab42ce.JPG)
 ![output 4](https://user-images.githubusercontent.com/92818492/167244174-ddf10cc9-f616-4976-81fe-5e518f9e7cd4.JPG)
-
