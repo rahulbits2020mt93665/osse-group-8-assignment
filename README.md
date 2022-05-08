@@ -71,9 +71,15 @@ How to Play TictacToe game:
 - 3 "x" and "0" can be vertical, horizontal and diagonal
 - If Player 1 makes 3 "x" then Player 1 will win and if Player 2 makes 3 "0" then Player 2 will win
 
+How to Play Jet-fighter-shooter-game:
+
+Welcome to this exciting game tutorial. In this tutorial we will be using Microsoft Visual Studio with C# to create a simple fighter jet shooting game. We have the images ready for you to use within the assets at below however you can use your images if you please. Since we will be using positions and pixel perfect movements we would recommend you use our images to start with. In this tutorial you will be using keyboard to control the player and shoot at enemies. We will keep the total score of the game and show it on the screen.
+
 
 ## Outputs:
 ![output 1](https://user-images.githubusercontent.com/92818492/167244138-3d500921-77dd-4ad3-9c94-3028af298a9c.JPG)
 ![output 2](https://user-images.githubusercontent.com/92818492/167244155-f6de36aa-c2f6-4de6-9ce9-2065a7bf38cd.JPG)
 ![output 3](https://user-images.githubusercontent.com/92818492/167244160-7f7b3807-eb30-435a-b6e2-0a22a1ab42ce.JPG)
 ![output 4](https://user-images.githubusercontent.com/92818492/167244174-ddf10cc9-f616-4976-81fe-5e518f9e7cd4.JPG)
+![image](https://user-images.githubusercontent.com/100077468/167295918-a86fbf77-d236-4017-b9b9-421c83fd61e8.png)
+
