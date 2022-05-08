@@ -1,0 +1,13 @@
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.exe
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.deps.json
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.runtimeconfig.json
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.runtimeconfig.dev.json
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.dll
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\bin\Debug\netcoreapp3.1\TicTacToeGame.pdb
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csprojAssemblyReference.cache
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.AssemblyInfoInputs.cache
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.AssemblyInfo.cs
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.csproj.CoreCompileInputs.cache
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.dll
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.pdb
+G:\BITS Pilani MTech\Semester 3\SE ZG587 - Open Source Software Engg\Assignments\Assignment 4\osse-group-8-assignment\TicTacToeGame\obj\Debug\netcoreapp3.1\TicTacToeGame.genruntimeconfig.cache
