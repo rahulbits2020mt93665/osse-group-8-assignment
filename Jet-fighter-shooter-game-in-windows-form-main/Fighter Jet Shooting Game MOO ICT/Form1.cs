@@ -156,6 +156,10 @@ namespace Fighter_Jet_Shooting_Game_MOO_ICT
             enemyOne.Top = rnd.Next(0, 200) * -1;
             enemyTwo.Top = rnd.Next(0, 500) * -1;
             enemyThree.Top = rnd.Next(0, 900) *-1;
+            
+            enemyOne.Top = rnd.Next(0, 1200) * -1;
+            enemyTwo.Top = rnd.Next(0, 1500) * -1;
+            enemyThree.Top = rnd.Next(0, 2000) *-1;
 
             score = 0;
             bulletSpeed = 0;
