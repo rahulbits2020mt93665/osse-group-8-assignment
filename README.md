@@ -2,26 +2,9 @@ Mini Games
 ***
 This project contains a colection of mini games one can play in their free time.
 
-Below are the mini games and their details:
-
-1) Red Light Green Light Game
-This is one of the games that you might have seen in Squid Game movie. 
-Now you can enjoy playing it as well.
-
-Technology used:
-This game is written in Java, c# and .NET languages. Multi-threading is used to for different players. 
-1 thread is for the doll other is for the player (You).
-
-How to play:
-- You need to press enter when the light is green.
-- You need to halt when the light is red as that is when the Doll is scanning for any movements.
-- The game is over when you press enter when light is red.
-- You will get to know your score at the end.
-- You can keep playing the game again and again by pressing Y. 
-- If anything other that Y is pressed the game is terminated.
-
 
 ## Table of Contents
+***
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
@@ -32,9 +15,9 @@ How to play:
 ## General Info
 ***
 In this project we have created a Gaming Application which will provide the user to play a host of different games like 
->Red Light Green Light
->Tic Tac Toe
->Cards
+- Red Light Green Light
+- Tic Tac Toe
+- Cards
 
 ## Technologies
 ***
@@ -44,38 +27,50 @@ A list of technologies used within the project:
 * [Java]
 * [.net]
 
+
 ## Installation
 ***
-```
 1) Microsoft Visual Studio 2019 Community Edition
 Install Microsoft Visual Studio from https://visualstudio.microsoft.com/downloads/
 
 2) Setup GitHub repository
+```
 $ cd ../path/to/the/file
 $ git clone https://github.com/nits005/osse-group-8-assignment.git
+```
 
 3) Run TictacToe - 
+```
 $ java tictactoe
-
 ```
 
 ## Collaboration
 ***
-> Fork the project from https://github.com/nits005/osse-group-8-assignment
-> Clone the project
-> Create a branch
-> Push code and raise a pull request
+- Fork the project from https://github.com/nits005/osse-group-8-assignment
+- Clone the project
+- Create a branch
+- Push code and raise a pull request
 
 
 ## FAQs
 ***
 A frequently asked question
-How to Play this game:
-1) Enter the desired number as per the turn of respective players
-2) If player 1 selected any number then that number will be replaced by "x" and if player 2 selected any number that number will be replaced by "0".
-3) The goal is to make any perfect 3 "x" for player 1 and perfect 3 "0" for player 2.
-4) 3 "x" and "0" can be vertical, horizontal and diagonal
-5) If Player 1 makes 3 "x" then Player 1 will win and if Player 2 makes 3 "0" then Player 2 will win
+
+How to play Red Light Green Light Game:
+- You need to press enter when the light is green.
+- You need to halt when the light is red as that is when the Doll is scanning for any movements.
+- The game is over when you press enter when light is red.
+- You will get to know your score at the end.
+- You can keep playing the game again and again by pressing Y. 
+- If anything other that Y is pressed the game is terminated.
+
+How to Play TictacToe game:
+- Enter the desired number as per the turn of respective players
+- If player 1 selected any number then that number will be replaced by "x" and if player 2 selected any number that number will be replaced by "0".
+- The goal is to make any perfect 3 "x" for player 1 and perfect 3 "0" for player 2.
+- 3 "x" and "0" can be vertical, horizontal and diagonal
+- If Player 1 makes 3 "x" then Player 1 will win and if Player 2 makes 3 "0" then Player 2 will win
+
 
 ## Outputs:
 ![output 1](https://user-images.githubusercontent.com/92818492/167244138-3d500921-77dd-4ad3-9c94-3028af298a9c.JPG)
